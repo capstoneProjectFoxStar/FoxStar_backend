@@ -1,4 +1,4 @@
-# 2024년 1학기 캡스톤 프로젝트
+# 2024년 1학기 캡스톤 프로젝트 backend repo
 팀명 : 여우별<br>
 개발 스택<br>
 front : react-native<br>
